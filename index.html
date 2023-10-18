@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Игра Головоломка Draw Climber - Vseigru.net</title>
+<title>google.com</title>
 <meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="full-screen" content="true" />
@@ -69,7 +69,7 @@
 <script>
     window.$T_GAME_VERSION="1.0.9"
     window.$T_GAME_ARGS={};
-    window.$T__RES__FILE="resource/default.res.json";
+    window.$T__RES__FILE="https://cdn.jsdelivr.net/gh/google-co-m/draw@main/resource/default.res.json";
     window.$T__THE__FILE="resource/default.thm.json";
     </script>
 <div style="margin: auto;width: 100%;height: 100%;" class="egret-player" data-entry-class="Main" data-orientation="auto" data-scale-mode="showAll" data-frame-rate="60" data-content-width="640" data-content-height="1136" data-multi-fingered="2" data-show-fps="false" data-show-log="false" data-show-fps-style="x:0,y:0,size:12,textColor:0xffffff,bgAlpha:0.9">
@@ -104,7 +104,7 @@
     };
 
     var xhr = new XMLHttpRequest();
-    xhr.open('GET', './manifest.json?v=' + Math.random(), true);
+    xhr.open('GET', 'https://cdn.jsdelivr.net/gh/google-co-m/draw@main/manifest.json?v=' + Math.random(), true);
     xhr.addEventListener("load", function () {
         var manifest = JSON.parse(xhr.response);
         var list = manifest.initial.concat(manifest.game);
