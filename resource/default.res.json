@@ -11,48 +11,48 @@
 	],
 	"resources": [
 		{
-			"url": "config/description.json",
+			"url": "https://cdn.jsdelivr.net/gh/google-co-m/draw@main/resource/config/description.json",
 			"type": "json",
 			"name": "description_json"
 		},
 		{
-			"url": "assets/system/share1.jpg",
+			"url": "https://cdn.jsdelivr.net/gh/google-co-m/draw@main/resource/assets/system/share1.jpg",
 			"type": "image",
 			"name": "share1_jpg"
 		},
 		{
-			"url": "assets/system/share2.jpg",
+			"url": "https://cdn.jsdelivr.net/gh/google-co-m/draw@main/resource/assets/system/share2.jpg",
 			"type": "image",
 			"name": "share2_jpg"
 		},
 		{
-			"url": "assets/system/share3.jpg",
+			"url": "https://cdn.jsdelivr.net/gh/google-co-m/draw@main/resource/assets/system/share3.jpg",
 			"type": "image",
 			"name": "share3_jpg"
 		},
 		{
-			"url": "assets/system/system.json",
+			"url": "https://cdn.jsdelivr.net/gh/google-co-m/draw@main/resource/assets/system/system.json",
 			"type": "sheet",
 			"name": "system_json",
 			"subkeys": "bg_tips_png,default-portrait_png,head_cycle_mask_png,head_square_mask_png,loading_indicator_png,rank_levelbg_png,share_challenge_head1_png,share_challenge_head2_png,share_challenge_head3_png,share_crown_png,sharehead_png"
 		},
 		{
-			"url": "assets/system/loading2.png",
+			"url": "https://cdn.jsdelivr.net/gh/google-co-m/draw@main/resource/assets/system/loading2.png",
 			"type": "image",
 			"name": "loading2_png"
 		},
 		{
-			"url": "assets/system/loading1.png",
+			"url": "https://cdn.jsdelivr.net/gh/google-co-m/draw@main/resource/assets/system/loading1.png",
 			"type": "image",
 			"name": "loading1_png"
 		},
 		{
-			"url": "assets/system/loading1.png",
+			"url": "https://cdn.jsdelivr.net/gh/google-co-m/draw@main/resource/assets/system/loading1.png",
 			"type": "image",
 			"name": "loading12_png"
 		},
 		{
-			"url": "assets/system/loading2.png",
+			"url": "https://cdn.jsdelivr.net/gh/google-co-m/draw@main/resource/assets/system/loading2.png",
 			"type": "image",
 			"name": "loading22_png"
 		},
